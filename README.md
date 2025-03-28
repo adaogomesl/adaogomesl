@@ -12,7 +12,7 @@ I am a **Ph.D. candidate** in the **Lopez Lab at Northeastern University**, with
 
 
 ## Leadership & Outreach  
-I am actively involved in **scientific leadership and outreach**, advocating for **diversity, equity, and inclusion in STEM**.  
+I am actively involved in **scientific leadership and outreach** through American Chemical Society, ADSE and Northeastern
 
 ---
 
