@@ -17,4 +17,4 @@ I am actively involved in **scientific leadership and outreach** through America
 ---
 
 📫 **Contact**  
-🔗 🔗 [LinkedIn](https://www.linkedin.com/in/leticia-a-gomes/)
+🔗  [LinkedIn](https://www.linkedin.com/in/leticia-a-gomes/)
