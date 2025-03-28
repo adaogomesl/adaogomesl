@@ -8,7 +8,7 @@ I am a **Ph.D. candidate** in the **Lopez Lab at Northeastern University**, with
 - Developing **computational tools** to drive **sustainable innovations** in photochemistry  
 
 ## Research Overview  
-<img width="1395" alt="Science" src="https://github.com/user-attachments/assets/69a3aa5a-9168-484f-9e6d-f58bf3f6703d" />
+<img width="750" alt="Science" src="https://github.com/user-attachments/assets/69a3aa5a-9168-484f-9e6d-f58bf3f6703d" />
 
 
 ## Leadership & Outreach  
