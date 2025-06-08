@@ -1,6 +1,6 @@
 # About Me  
 
-I am a **Ph.D. candidate** in the **Lopez Lab at Northeastern University**, with a B.S. in Chemistry from Suffolk University (2021). Originally from Rio de Janeiro, Brazil, I am a first-generation Latina researcher specializing in **Theoretical chemistry and photochemistry**.  
+I am a **Ph.D. candidate** in the **Lopez Lab at Northeastern University**, with a B.S. in Chemistry from Suffolk University (2021). I am a first-generation Latina researcher specializing in **computational chemistry and photochemistry**.  
 
 ## Research Focus  
 - **High-throughput virtual screening** to discover **novel organic photoredox catalysts**  
