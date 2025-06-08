@@ -5,7 +5,8 @@ I am a **Ph.D. candidate** in the **Lopez Lab at Northeastern University**, with
 ## Research Focus  
 - **High-throughput virtual screening** to discover **novel organic photoredox catalysts**  
 - Investigating **mechanistic pathways and stereoselectivity** in photochemical reactions  
-- Developing **computational tools** to drive **sustainable innovations** in photochemistry  
+- Developing **computational tools** to drive **sustainable innovations** in photochemistry
+- Training **Equivariant Neural Network** to predict **excited state couplings**     
 
 ## Research Overview  
 <img width="750" alt="Science" src="https://github.com/user-attachments/assets/69a3aa5a-9168-484f-9e6d-f58bf3f6703d" />
